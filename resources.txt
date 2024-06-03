@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=3qBXWUpoPHo == freecodecamp angular course
+https://www.udemy.com/course/try-angularjs/learn/lecture/5871098#overview == Angular frontend beginner course
+https://www.udemy.com/course/angularjs-tutorial/learn/lecture/1954626#overview == angularJS for beginners
+https://www.udemy.com/course/angular-5/learn/lecture/8508036#overview == angular 5 from scratch
+https://olympus.mygreatlearning.com/courses/38626/pages/introduction-and-agenda?module_item_id=1057692 == angularJS full in-depth course
