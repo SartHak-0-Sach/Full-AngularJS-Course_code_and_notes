@@ -3,3 +3,5 @@ https://www.udemy.com/course/try-angularjs/learn/lecture/5871098#overview == Ang
 https://www.udemy.com/course/angularjs-tutorial/learn/lecture/1954626#overview == angularJS for beginners
 https://www.udemy.com/course/angular-5/learn/lecture/8508036#overview == angular 5 from scratch
 https://olympus.mygreatlearning.com/courses/38626/pages/introduction-and-agenda?module_item_id=1057692 == angularJS full in-depth course
+https://m.youtube.com/playlist?list=PL8p2I9GklV45--5t7_N4lveUI6Y31vQ6C == angular shorter playlist youtube
+https://m.youtube.com/playlist?list=PL1BztTYDF-QNlGo5-g65Xj1mINHYk_FM9 == angular longer playlist youtube
